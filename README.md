@@ -1,18 +1,11 @@
-## How do I complete this project?
-
-1. Go to the [Javascript Basics course](https://www.udacity.com/course/ud804) and select "View Course Materials."
-2. Go through the videos and assignments in this course to learn the JavaScript necessary to build your resume.
-3. Review your work against the Project Rubric (on the next page).
-4. When you are satisfied with your project, submit it according to the Submission Instructions on the next page.
-
-### By the end:
-Your resume will look something like this
+## My Resume
+<!--### By the end:-->
 ![](images/fry.png)
 
 <!--http://i.imgur.com/pWU1Xbl.png-->
 
 And your repository will include the following files:
-
+<!--
 * **index.html**: The main HTML document. Contains links to all of the CSS and JS resources needed to render the resume, including resumeBuilder.js.
 * **js/helper.js**: Contains helper code needed to format the resume and build the map. It also has a few function shells for additional functionality. More on helper.js further down.
 * **js/resumeBuilder.js**: This file is empty. You should write your code here.
@@ -95,3 +88,4 @@ The resume has four distinct sections: work, education, projects and a header wi
 4. All of your code for adding elements to the resume should be within functions. And all of your functions should be encapsulated within the same objects containing your resume data. For instance, your functions for appending work experience elements to the page should be found within the same object containing data about your work experience.
 5. Your resume should also `console.log()` information about click locations. On line 90 in helper.js, you’ll find a jQuery onclick handler that you’ll need to modify to work with the `logClicks(x,y)` function above it.
 6. It’s possible to make additional information show up when you click on the pins in the map. Check out line 174 in helper.js and the Google Maps API to get started.
+-->
