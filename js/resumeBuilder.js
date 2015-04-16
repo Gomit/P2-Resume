@@ -1,7 +1,7 @@
 
 var bio = {
 	"name":"Meron Goitom",
-	"role":"Developer",
+	"role":"Utvecklare",
 	"welcomeMessage":"Hi and welcome to my resume\
 	Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.\
 	Lorem ipsum har varit standard ända sedan 1500-talet, när en \
@@ -9,14 +9,14 @@ var bio = {
 	göra ett provexemplar av en bok. Lorem ipsum har inte bara överlevt\
 	okänd boksättare tog att antal bokstäver och blandade dem för att \
 	göra ett",
-	"profilePicture": "images/fry.png",
+	"profilePicture": "images/ProfilBild.png",
 	"contacts":[{
 		"Mobile":"(+46)76-2575515",
 		"Email":"meron.g@live.se",
 		"Github":"Gomit",
 		"location": "Strandåkersgatan 5 Halmstad"
 	}],
-	"skills":["3D-modeling: Catia V5","Web Programming: HTML, CSS, JavaScript","Customer Development"],
+	"skills":["3D-modelering: Catia V5","Webbutveckling: HTML, CSS, JavaScript","Kundutveckling"],
 }
 
 bio.display = function() {
@@ -243,8 +243,7 @@ var projects = {
 		"title":"Sample Project 1",
 		"dates": "2012-05-05 - Nuvarande",
 		"description": "Har drivit ett",
-		"images":["images/fry.png"
-		]
+		"images":["images/fry.png"]
 	  }
 	]
 };
