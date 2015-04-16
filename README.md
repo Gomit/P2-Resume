@@ -1,6 +1,6 @@
 ## My Resume
 <!--### By the end:-->
-![](Resume_ScreenShot.png)
+![](images/Resume_ScreenShot.png)
 
 <!--http://i.imgur.com/pWU1Xbl.png-->
 
