@@ -14,7 +14,7 @@ var bio = {
 		"Mobile":"(+46)76-2575515",
 		"Email":"meron.g@live.se",
 		"Github":"Gomit",
-		"location": "Strandåkersgatan 5 Halmstad"
+		"location": "Strandåkersgatan 5, Halmstad"
 	}],
 	"skills":["3D-modelering: Catia V5","Webbutveckling: HTML, CSS, JavaScript","Kundutveckling"],
 }
@@ -120,11 +120,13 @@ var education = {
 	"onlineCourses" : [
 	  {
 		"title":"Front-End Web Development",
+		"location":"Halmstad, Sweden",
 		"school":"Udacity",
 		"dates":"2014",
 		"url":"https://www.udacity.com/course/nd001"
 	  }
 	]
+	
 };
 education.display = function() {
     $("#education").append(HTMLschoolStart);
@@ -164,7 +166,7 @@ var work = {
 	  {
 		"employer": "Willys Eurostop Halmstad",
 		"title": "Butiksanställd",
-		"location": "Eurostop, Halmstad, Sweden",
+		"location": "Halmstad, Sweden",
 		"dates": "2015-02-04 - Nuvarande",
 		"description":"Butiksanställd",
 		"url":"https://www.willys.se/"
@@ -172,7 +174,7 @@ var work = {
 	  {
 		"employer": "ICA Maxi Högskolan Halmstad",
 		"title": "Butiksanställd",
-		"location": "Högskolan, Halmstad, Sweden",
+		"location": "Högskolan Halmstad, Sweden",
 		"dates": "2010-04-01 - 2012-04-10",
 		"description":"Butiksanställd",
 		"url":"http://www.ica.se/butiker/maxi/halmstad/maxi-ica-stormarknad-hogskolan-2308/start/"
@@ -188,7 +190,7 @@ var work = {
 	  {
 		"employer": "Fredriksdalsteatern Helsingborg",
 		"title": "Trafikövervakare",
-		"location": "Fredriksdal, Helsingborg, Sweden",
+		"location": "Fredriksdal Helsingborg, Sweden",
 		"dates": "2009-06-15 - 2009-08-20",
 		"description":"Trafikövervakare",
 		"url":"http://www.evarydberg.se/"
